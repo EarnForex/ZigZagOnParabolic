@@ -6,6 +6,6 @@ The indicator can display the peaks and troughs both on the actual maximum/minim
 
 ![ZigZagOnParabolic shows a consolidation phase and a breakout](https://github.com/EarnForex/ZigZagOnParabolic/blob/main/README_Images/zigzag-on-parabolic-trend-consolidation-breakouts.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/ZigZagOnParabolic/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/ZigZagOnParabolic/
 
 Any contributions to the code are welcome!
